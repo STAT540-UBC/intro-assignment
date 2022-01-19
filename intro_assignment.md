@@ -133,7 +133,7 @@ questions.
 
 Here you’ll practice reading data from a text file and do some graphing.
 The file
-[“guinea_pig_tooth_growth.txt”](https://raw.githubusercontent.com/STAT540-UBC/STAT540-UBC.github.io/master/homework/intro_assignment/guinea_pigs_tooth_growth.txt)
+[“guinea_pig_tooth_growth.txt”](https://raw.githubusercontent.com/STAT540-UBC/intro-assignment/main/guinea_pigs_tooth_growth.txt)
 is actually the same data as the dataset `ToothGrowth`. You can use
 `?ToothGrowth` to see what it’s about. However, use `read.table` to read
 this file into a data frame for this question.
