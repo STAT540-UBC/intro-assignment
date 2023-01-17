@@ -92,7 +92,7 @@ Replace this text with an explanation of your code output to answer the question
 
 ## 3. Data visualization (2pt)
 
-Here you'll practice reading data from a text file and do some graphing. The file ["PaintedTurtles.txt"](https://raw.githubusercontent.com/STAT540-UBC/STAT540-UBC.github.io/master/homework/intro_assignment/PaintedTurtles.txt) contains data on several variables for a sample of Painted turtles. 
+Here you'll practice reading data from a text file and do some graphing. The file ["PaintedTurtles.txt"](https://raw.githubusercontent.com/STAT540-UBC/intro-assignment/main/PaintedTurtles.txt) contains data on several variables for a sample of Painted turtles. 
 
 - Create a figure to visualize at least 3 variables from this dataset (choose whatever graph you'd like!)
 - Explain how your graph is informative: what does it tell you about the relationship between the variables? Also explain why you choose to present the data in this way. 

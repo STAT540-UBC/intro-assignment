@@ -141,7 +141,7 @@ questions.
 
 Here you’ll practice reading data from a text file and do some graphing.
 The file
-[“PaintedTurtles.txt”](https://raw.githubusercontent.com/STAT540-UBC/STAT540-UBC.github.io/master/homework/intro_assignment/PaintedTurtles.txt)
+[“PaintedTurtles.txt”](https://raw.githubusercontent.com/STAT540-UBC/intro-assignment/main/PaintedTurtles.txt)
 contains data on several variables for a sample of Painted turtles.
 
 - Create a figure to visualize at least 3 variables from this dataset
