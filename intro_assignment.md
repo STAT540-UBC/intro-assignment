@@ -108,7 +108,8 @@ by graphing.
 ### 2.1 Passenger breakdown (1pt)
 
 - Convert the array into a data frame by using `data.frame()` function.
-- How many children and adults were on Titanic?
+- How many children were on Titanic?
+- How many adults were on Titanic?
 - Were there more female adult or male adult passengers?
 
 Find the answers these questions by adding code to the code block below.
